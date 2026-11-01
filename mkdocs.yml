@@ -1,0 +1,8 @@
+site_name: Explaining Technical Concepts in Interviews
+site_description: How to answer "Explain a technical concept to a non-technical person" in a job interview.
+nav:
+  - Home: index.md
+
+
+
+
